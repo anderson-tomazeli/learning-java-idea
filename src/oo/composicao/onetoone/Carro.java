@@ -1,4 +1,4 @@
-package oo.composicao.onebyone;
+package oo.composicao.onetoone;
 
 public class Carro {
 
